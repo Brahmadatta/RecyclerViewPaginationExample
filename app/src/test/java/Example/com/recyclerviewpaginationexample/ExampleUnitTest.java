@@ -1,4 +1,4 @@
-package escapadetechnologies.com.recyclerviewpaginationexample;
+package Example.com.recyclerviewpaginationexample;
 
 import org.junit.Test;
 

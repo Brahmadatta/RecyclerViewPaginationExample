@@ -1,4 +1,4 @@
-package escapadetechnologies.com.recyclerviewpaginationexample;
+package Example.com.recyclerviewpaginationexample.activity;
 
 import android.app.ProgressDialog;
 import android.support.annotation.NonNull;
@@ -7,8 +7,6 @@ import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
-import android.view.View;
-import android.widget.ProgressBar;
 
 import com.android.volley.RequestQueue;
 import com.android.volley.Response;
@@ -23,6 +21,10 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+
+import Example.com.recyclerviewpaginationexample.adpater.GithubAdapter;
+import Example.com.recyclerviewpaginationexample.model.GithubDataClass;
+import Example.com.recyclerviewpaginationexample.R;
 
 public class MainActivity extends AppCompatActivity {
 

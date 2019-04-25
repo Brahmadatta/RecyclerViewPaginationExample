@@ -1,4 +1,4 @@
-package escapadetechnologies.com.recyclerviewpaginationexample;
+package Example.com.recyclerviewpaginationexample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

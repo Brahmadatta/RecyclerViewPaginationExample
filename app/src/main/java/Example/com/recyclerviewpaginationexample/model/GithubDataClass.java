@@ -1,4 +1,4 @@
-package escapadetechnologies.com.recyclerviewpaginationexample;
+package Example.com.recyclerviewpaginationexample.model;
 
 import java.io.Serializable;
 

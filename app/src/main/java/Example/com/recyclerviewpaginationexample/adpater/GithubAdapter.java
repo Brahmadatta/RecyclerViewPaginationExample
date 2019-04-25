@@ -1,4 +1,4 @@
-package escapadetechnologies.com.recyclerviewpaginationexample;
+package Example.com.recyclerviewpaginationexample.adpater;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -11,6 +11,9 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+
+import Example.com.recyclerviewpaginationexample.model.GithubDataClass;
+import Example.com.recyclerviewpaginationexample.R;
 
 public class GithubAdapter extends RecyclerView.Adapter<GithubAdapter.GithubViewHolder>{
 
